@@ -1,2 +1,2 @@
-# logica_com_typescript-
+# logica_typescript-senai
 Aprendendo Lógica com TypeScpritp
